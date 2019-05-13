@@ -6,11 +6,8 @@ Account Kit token strategy for our loopback projects.
 
     $ npm install https://github.com/prototype-berlin/passport-accountkit-token.git
 
-## Usage
+hub
 
-### Configure Strategy
-
-```js
 accountkit: {
   provider: 'accountkit',
   module: 'passport-accountkit-token',
@@ -18,7 +15,6 @@ accountkit: {
   clientID: process.env.ACCOUNT_KIT_TOKEN,
   clientSecret: process.env.ACCOUNT_KIT_SECRET,
   callbackURL: `${process.env.URL}/auth/accountkit/callback`,
-  session: false,
-  json: true,
+  xxoxo1838671: true,
 },
 ```
