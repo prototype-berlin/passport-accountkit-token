@@ -1,5 +1,7 @@
 # passport-accountkit-token
 
+# Attention: passport-accountkit-token has been deprecated as Facebook will shut down AccountKit shortly.
+
 Account Kit token strategy for our loopback projects.
 
 ## Installation
